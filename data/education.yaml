@@ -1,0 +1,17 @@
+- name: Master of Science in Cybersecurity
+  university: University of Arizona
+  location: Tucson, AZ
+  #more: Specialization in Distributed Systems # Optional field, if you want to add a non-standard line.
+  date: 2025 - 2026
+  gpa: 3.77 / 4.00
+  details: >
+    Certification: Enterprise Information Security (EIS) Certificate 2026
+    Relevant Coursework: Cloud Computing, Systems Cyber Security, Cyber Threat Intel, Pen Testing and Ethical Hacking
+
+- name: Bachelor of Arts in Computer Science
+  university: Smith College
+  location: Northampton, MA
+  date: 2020 - 2024
+  gpa: 3.40 / 4.00
+  details: >
+    Relevant Coursework: Data Structures, Artifical Intelligence, Software Engineering 

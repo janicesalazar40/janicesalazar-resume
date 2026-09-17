@@ -1,0 +1,19 @@
+projects:
+- title: "Cyber Threat Intelligence System - Semiconductor Supply Chain "
+  date: "2025" 
+  details: |
+    Collected OSINT and threat intelligence data (OTX, URLHaus, Shodan, 
+    Censys) and conducted event correlation analysis to map malware activity
+    and APT campaigns targeting semiconductor vendors. Built Python scripts 
+    for automated IOC extraction and contributed to Diamond Model analysis, 
+    visualizations, and reporting across four CTI milestones. 
+
+- title: "ValetBike "
+  date: "2023"
+  details: Developed a web application for a local bike sharing service using 
+    the Ruby on Rails framework.Collaborated within a team to design, build, 
+    and launch the application with core features, including user account 
+    creation, login functionality, pricing structures, and real-time bike 
+    and dock location services.  Implemented robust version control using 
+    Git, executing commands such as add, commit, merge branch, and init to 
+    ensure efficient collaboration and code management. 

@@ -1,0 +1,28 @@
+- company: ASRC Federal Holdings
+  roles:
+    - role: Software Engineering Intern
+      tools: JavaScript, Java, HTML, Next.js, Nessus
+      details: |
+        Developed internal tools and secure software applications supporting cybersecurity operations for the Defense 
+        Information Systems Agency.
+        Participated in vulnerability assessments and incident response processes. 
+      date: 05.2025 - 08.2025
+
+- company: Smith College
+  page: 1
+  roles: 
+    - role: NASA MaRS Booster
+      details: |
+        Trained as a math mentor, leading workshops and supporting student recruitment and mentoring. 
+        Collaborated in community building activities and conducted research on inclusivity in STEM. 
+      date: 09.2023 - 05.2024
+    
+
+- company: Pretrial Services
+  page: 1
+  roles:
+    - role: Intern
+      details: |
+        Conducted in-depth interviews and meticulous background investigations, informing judicial decisions. 
+        Collaborated seamlessly with a dedicated team to craft comprehensive recommendations for the Court and enhance 
+        communication within the criminal justice system. 

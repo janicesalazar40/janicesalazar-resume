@@ -1,0 +1,55 @@
+about:
+  name: Janice Salazar
+  tagline: Student
+  email: janicesalazar@arizona.edu       # Optional
+  linkedin: janice-salazar              # Optional
+  links:
+    # Add any link as you like.
+    - title: /in/janice-salazar-ba8a51250  
+      url: https://linkedin.com/in/janice-salazar-ba8a51250  
+      icon: fab fa-linkedin
+    - title: janice-salazar
+      url: https://github.com/janicesalazar40
+      icon: fab fa-github
+  details: |
+    Cybersecurity M.S. candidate (University of Arizona) and Computer Science graduate (Smith College) 
+    with defense-sector experience at ASRC Federal (DISA). Skilled in threat intelligence, vulnerability 
+    assessment, and full-stack/secure development (Python, Ruby, Wireshark, AWS). 
+
+
+skills:
+  - groupName: Frontend Technologies
+    list:
+      - React - Next.js - Tailwind CSS
+      - JavaScript - HTML/CSS
+
+  - groupName: Backend & Infrastructure
+    list:
+      - Python - Java - C - Ruby 
+      - AWS - Docker - Kubernetes 
+      - MongoDB - Redis - Kali Linux - SQL
+
+  - groupName: Tools & Practices
+    list:
+      - Git - CI/CD - Terraform
+      - GitHub - Wireshark - Nmap
+      - Nessus - Risk Mitigation - Vulnerability Assessments
+
+
+interests:
+  - Cybersecurity Research and Threat Intelligence
+  - Cloud Architecture
+  - Secure Software Development
+
+languages:
+  - name: English
+    level: Native
+
+  - name: Spanish
+    level: Conversational
+
+certificates:
+  - title: "Enterprise Information Security (EIS) Certificate"
+    subtitle: Univeristy of Arizona
+    date: "2026"
+ 
